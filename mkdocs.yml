@@ -1,3 +1,5 @@
 site_name: Myo Htet
+nav:
+  - Home: home.md
 theme:
   name: material
