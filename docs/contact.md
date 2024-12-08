@@ -65,7 +65,7 @@
     <div class="form-container">
         <h1>Contact Us</h1>
         <p>Please fill this form in a decent manner</p>
-         <form action="https://formsubmit.co/myohtet.cu2014@gmail.com" method="POST">
+         <form action="https://formsubmit.co/21272515c8f406285699a793fb39cae0" method="POST">
             <div class="form-group">
                 <label for="first-name">Full Name</label>
                 <input type="text" id="first-name" placeholder="First Name" required>
